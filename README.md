@@ -20,12 +20,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/images/qr-code%20project%20screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://lanrie-dev.github.io/qr-code-project/](https://your-solution-url.com)
+- Live Site URL: [https://lanrie-dev.github.io/qr-code-project/](https://your-live-site-url.com)
 
 ## My process
 
@@ -64,7 +64,7 @@ I learnt that you can use the @import function to import fonts into your CSS fil
 
 ## Acknowledgments
 
-Thanks to the FreecodeCamp team for having such a beautiful and progressive curriculum which brought up to speed on HTML5, CSS3 and, JAVASCRIPT. Also, I thank the Frontend Mentor team for introducing a wonderful community and space to bring out the grit in aspiring developers.
+Thanks to the FreecodeCamp team for having such a beautiful and progressive curriculum which brought me up to speed on HTML5, CSS3 and, JAVASCRIPT. Also, I thank the Frontend Mentor team for introducing a wonderful community and space to bring out the grit in aspiring developers.
 
 Thanks to everyone who helped me during this project!
 

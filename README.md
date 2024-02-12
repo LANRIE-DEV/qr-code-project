@@ -42,18 +42,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I learnt that you can use the @import function to import fonts into your CSS files, also that it's recommended to use the @font-face rule for importing custom fonts in CSS.
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 ```
 
 ### Continued development
+
 1. I want to devote more time to learning units and measurement parameters that contribute responsive design, units like vh (viewport height), vw(viewport width).
-2. I also want to examine more of CSS functions and declarations that provide seamless and soothing design. 
+2. I also want to examine more of CSS FUNCTIONS and DECLARATIONS that provide seamless and soothing design. 
+3. I also want to shed more light on CSS SPECIFICITY.
 
 
 ### Useful resources
@@ -62,11 +59,12 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [https://lanrie-dev.github.io/qr-code-project/]
+- Website - [https://lanrie-dev.github.io/portfolio-1/]
 - Frontend Mentor - [LANRIE-DEV](https://www.frontendmentor.io/profile/LANRIE-DEV)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thanks to the FreecodeCamp team for having such a beautiful and progressive curriculum which brought up to speed on HTML5, CSS3 and, JAVASCRIPT. Also, I thank the Frontend Mentor team for introducing a wonderful community and space to bring out the grit in aspiring developers.
+
+Thanks to everyone who helped me during this project!
 
